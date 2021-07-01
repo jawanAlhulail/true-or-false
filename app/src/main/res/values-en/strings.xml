@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">guess the answer</string>
+    <string name="false_text">false</string>
+    <string name="true_text">true</string>
+    <string name="back_text">back</string>
+    <string name="share_question_text">share question</string>
+    <string name="share_title_hint">enter hint text</string>
+    <string name="change_lang_text">
+change language
+    </string>
+
+</resources>

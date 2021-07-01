@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">لعبة خمن</string>
+    <string name="false_text">خطأ</string>
+    <string name="true_text">صحيح</string>
+    <string name="back_text">الرجوع</string>
+    <string name="share_question_text">نشر السؤال</string>
+    <string name="share_title_hint">ادخل عنوان المشاركه</string>
+    <string name="change_lang_text">
+تغيير اللغة
+    </string>
+    <string-array name="questions">
+        <item>The official currency of Kuwait is the Kuwaiti riyal?</item>
+        <item>Toubkal is the highest peak in the Arab world? </item>
+        <item>\'Algeria is the largest Arab country in terms of\' area?</item>
+        <item>Casablanca is the capital of Morocco?</item>
+        <item>  Kabul is the capital of Afghanistan?</item>
+        <item>The biggest invertebrate animal is the jellyfish?</item>
+        <item>The Arab country with which the Equator passes is Sudan?</item>
+        <item>The heart is the largest organ of the human body?</item>
+        <item>The first mosque in Islam is the Prophet\'s Mosque?</item>
+        <item>The only uncle of your aunt\'s children is your father?</item>
+        <item>The world\'s first banana production country is Ecuador?</item>
+        <item>The world\'s first banana production country is Ecuador?</item>
+        <item>The capital of Argentina is Baku? Vietnam\'s currency is Dong?</item>
+
+    </string-array>
+    <array name="languages">
+        <item>العربية</item>
+        <item>English</item>
+        <item>french</item>
+    </array>
+</resources>

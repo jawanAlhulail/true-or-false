@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Devinez la réponse</string>
+    <string name="false_text">Faux</string>
+    <string name="true_text">Vrai</string>
+    <string name="back_text">الرجوع</string>
+    <string name="share_question_text">نشر السؤال</string>
+    <string name="share_title_hint">ادخل عنوان المشاركه</string>
+    <string name="change_lang_text">
+changu langugu
+    </string>
+</resources>
